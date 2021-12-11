@@ -1,0 +1,2 @@
+# deneme
+İlk projem
